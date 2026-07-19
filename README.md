@@ -45,5 +45,7 @@ Instead of manually navigating the Google Cloud Console, this script interacts d
 To execute the automated deployment, open your Google Cloud Shell terminal, copy the block below, and paste it to run the commands:
 
 ```bash
-curl -LO https://raw.githubusercontent.com/saswatsubhransudev/Automate-Data-Capture-at-Scale-with-Document-AI-Challenge-Lab-GSP367/refs/heads/main/saswatsubhransu.sh && chmod +x saswatsubhransu.sh && ./saswatsubhransu.sh
+curl -LO https://raw.githubusercontent.com/saswatsubhransudev/Automate-Data-Capture-at-Scale-with-Document-AI-Challenge-Lab-GSP367/refs/heads/main/saswatsubhransu.sh
+sudo chmod +x saswatsubhransu.sh
+./saswatsubhransu.sh
 
