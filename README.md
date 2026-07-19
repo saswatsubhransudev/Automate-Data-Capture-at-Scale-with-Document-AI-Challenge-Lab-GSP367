@@ -42,10 +42,10 @@ To execute the automated deployment, open your Google Cloud Shell terminal and r
 
 ```bash
 # 1. Download the automated script
-curl -LO [https://raw.githubusercontent.com/saswatsubhransudev/Automate-Data-Capture-at-Scale-with-Document-AI-Challenge-Lab-GSP367/main/TechCode.sh](https://raw.githubusercontent.com/saswatsubhransudev/Automate-Data-Capture-at-Scale-with-Document-AI-Challenge-Lab-GSP367/main/TechCode.sh)
+curl -LO [https://raw.githubusercontent.com/saswatsubhransudev/Automate-Data-Capture-at-Scale-with-Document-AI-Challenge-Lab-GSP367/main/saswatsubhransu.sh](https://raw.githubusercontent.com/saswatsubhransudev/Automate-Data-Capture-at-Scale-with-Document-AI-Challenge-Lab-GSP367/main/saswatsubhransu.sh)
 
 # 2. Grant execution permissions
-sudo chmod +x TechCode.sh
+sudo chmod +x saswatsubhransu.sh
 
 # 3. Execute the script
-./TechCode.sh
+./saswatsubhransu.sh
