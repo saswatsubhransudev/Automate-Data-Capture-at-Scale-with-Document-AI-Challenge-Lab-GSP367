@@ -10,6 +10,8 @@
 
 **A fully automated, one-click deployment script to solve the GSP367 Challenge Lab.**
 
+*Last updated: July 2026*
+
 </div>
 
 ---
@@ -28,24 +30,11 @@ Instead of manually navigating the Google Cloud Console, this script interacts d
 
 ---
 
-## ⚠️ Disclaimer 
-
-> **Educational Purpose Only:** This script and guide are provided strictly for educational purposes to help developers and cloud enthusiasts understand Google Cloud services, Document AI APIs, and infrastructure-as-code automation. 
-> 
-> **Terms Compliance:** Always ensure compliance with Google Cloud Skills Boost / Qwiklabs terms of service. Before running the script, please review the code to familiarize yourself with the underlying commands and concepts. The aim is to enhance your learning experience — not to circumvent it.
-
----
-
 ## 🚀 Quick Start: Run in Cloud Shell
 
-To execute the automated deployment, open your Google Cloud Shell terminal and run the following commands sequentially:
+To execute the automated deployment, open your Google Cloud Shell terminal, copy the block below, and paste it to run the commands:
 
 ```bash
-# 1. Download the automated script
 curl -LO [https://raw.githubusercontent.com/saswatsubhransudev/Automate-Data-Capture-at-Scale-with-Document-AI-Challenge-Lab-GSP367/refs/heads/main/saswatsubhransu.sh](https://raw.githubusercontent.com/saswatsubhransudev/Automate-Data-Capture-at-Scale-with-Document-AI-Challenge-Lab-GSP367/refs/heads/main/saswatsubhransu.sh)
-
-# 2. Grant execution permissions
 sudo chmod +x saswatsubhransu.sh
-
-# 3. Execute the script
 ./saswatsubhransu.sh
