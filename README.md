@@ -30,6 +30,16 @@ Instead of manually navigating the Google Cloud Console, this script interacts d
 
 ---
 
+## ⚠️ Disclaimer 
+
+> **Educational Purpose Only:** This script and guide are provided strictly for educational purposes to help developers and cloud enthusiasts understand Google Cloud services, API management, and infrastructure-as-code automation. 
+> 
+> **Terms Compliance:** Always ensure compliance with Google Cloud Skills Boost / Qwiklabs terms of service. Before running the script, please review the code to familiarize yourself with the underlying commands and concepts. The aim is to enhance your learning experience — not to circumvent it.
+
+---
+
+---
+
 ## 🚀 Quick Start: Run in Cloud Shell
 
 To execute the automated deployment, open your Google Cloud Shell terminal, copy the block below, and paste it to run the commands:
